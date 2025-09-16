@@ -22,5 +22,5 @@ This project analyzes BlinkIT's sales performance using product attributes (cate
 - SQL (Analysis)   
 - Canva (Presentation)
   
-![BlinkIT Dashboard]("E:\Data Analyst\Blinkit\Dashboard.png")
+![BlinkIT Dashboard](Dashboard.png)
 
