@@ -22,6 +22,6 @@ This project analyzes BlinkIT's sales performance using product attributes (cate
 - SQL (Analysis)   
 - Canva (Presentation)
   
-![BlinkIT Dashboard](https://github.com/your-username/repo-name/blob/main/images/Dashboard.png?raw=true)
+![BlinkIT Dashboard](https://github.com/mishra-ishita/Blinkit-Sales-Outlet-Performance-Analysis/Dashboard.png?raw=true)
 
 
